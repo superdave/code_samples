@@ -22,3 +22,15 @@ its primary purpose was to solve the problem of drawing names for the family
 Secret Santa exchange while making sure people in nuclear families did not get
 each other.  It was written and tested within the hour that some members of the
 family were attempting to perform the draw with paper.
+
+
+Sudoku
+------
+
+This was the final project for my undergraduate algorithms class in 2005 (yes,
+it's old, but a useful example of algorithmic analysis, data structures and
+optimization).  It is in C++, which would probably not be my preferred language
+for anything in the enterprise today without good reason (no compile-time or
+run-time enforced bounds/reference checking, etc.; too vulnerable without a lot
+of code review and auditing).  I'd love to try rewriting this in Rust some time
+soon.
