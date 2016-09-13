@@ -14,6 +14,16 @@ A brief overview of each directory follows; more details are in README files
 within the project directories themselves.
 
 
+-BLAM-
+------
+
+This is a 2D game engine I started developing in my spare time in 2009 for Mac
+OS X which I used as a display engine for a research project in graduate
+school.  It features Objective-C++-to-C++ bridging, Lua scripting, and OpenGL
+sprite manipulation with PNG sprite loading.  It builds on XCode 7 on Mac OS X
+10.11, at least, possibly older ones.
+
+
 Secret Santa
 ------------
 

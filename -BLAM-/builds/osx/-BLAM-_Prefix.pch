@@ -1,0 +1,12 @@
+//
+// Prefix header for all source files of the '-BLAM-' target in the '-BLAM-' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
+
+#ifdef __cplusplus
+#include "gl_config.h"
+#include "geometry.h"
+#endif
