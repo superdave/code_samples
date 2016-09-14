@@ -26,6 +26,9 @@ try:
 except IndexError:
     last_year = {}
 
+# Make an empty name map in case we don't load one.
+name_map = {}
+
 # Check to see if a map file was provided.
 if last_year:
     try:
